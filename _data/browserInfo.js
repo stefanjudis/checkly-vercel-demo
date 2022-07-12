@@ -1,5 +1,6 @@
 const { AssetCache } = require('@11ty/eleventy-fetch');
 const { browsers } = require('../_data/config');
+const fetch = require('node-fetch');
 
 async function getBrowserData(browser) {
   const response = await fetch(
