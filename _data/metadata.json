@@ -1,0 +1,17 @@
+{
+  "title": "browsers.fyi",
+  "url": "https://www/browsers.fyi",
+  "language": "en",
+  "description": "Learn about new browser releases.",
+  "feed": {
+    "subtitle": "New browser release notes.",
+    "filename": "feed.xml",
+    "path": "/feed/",
+    "id": "https://www.browsers.fyi/"
+  },
+  "author": {
+    "name": "Stefan Judis",
+    "email": "stefanjudis@gmail.com",
+    "url": "https://www.stefanjudis.com"
+  }
+}
