@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/api/",
+      "source": "/api/index.html",
       "headers": [
         {
           "key": "Content-Type",
