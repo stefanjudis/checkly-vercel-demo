@@ -1,13 +1,3 @@
 {
-  "headers": [
-    {
-      "source": "/api/index.html",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "application/json"
-        }
-      ]
-    }
-  ]
+  "rewrites": [{ "source": "/api", "destination": "/api.json" }]
 }
