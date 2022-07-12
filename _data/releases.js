@@ -1,4 +1,5 @@
 const { browsers } = require('../_data/config');
+const fetch = require('node-fetch');
 
 module.exports = async function releases() {
   const browserData = await Promise.all(
